@@ -10,7 +10,7 @@
         "p_file" : "coaches.parquet"
     },
     {
-        "p_rel_url" : "anshlambagit/AzureProjectWithCICD/refs/heads/main/Resources/events.csv",
+        "p_rel_url" : "Sahilsr10/Azure_CI-CD_end-to-end_Project/refs/heads/main/events.csv",
         "p_folder" : "events",
         "p_file" : "events.parquet"
     }
