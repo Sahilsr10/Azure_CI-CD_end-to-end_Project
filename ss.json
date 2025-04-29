@@ -5,7 +5,7 @@
         "p_file" : "athletes.parquet"
     },
     {
-        "p_rel_url" : "anshlambagit/AzureProjectWithCICD/refs/heads/main/Resources/coaches.csv",
+        "p_rel_url" : "Sahilsr10/Azure_CI-CD_end-to-end_Project/refs/heads/main/coaches.csv",
         "p_folder" : "coaches",
         "p_file" : "coaches.parquet"
     },
