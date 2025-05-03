@@ -18,7 +18,6 @@ This enterprise-grade data engineering project implements a modern data platform
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](https://via.placeholder.com/800x400?text=Architecture+Diagram)
 
 ### Key Components
 
